@@ -2,10 +2,10 @@
 type: ProjectLayout
 title: Jiween Project
 colors: colors-a
-date: '2022-01-22'
-client: Awesome client
+date: '1997-04-05'
+client: Jiween Bikini's Ukay
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Fucking Strong Independent Human
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg

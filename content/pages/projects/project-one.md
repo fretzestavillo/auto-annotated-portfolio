@@ -3,7 +3,7 @@ type: ProjectLayout
 title: A very cool code project
 colors: colors-a
 date: '1997-04-05'
-client: Jiween Malakas07
+client: Jiween Bikini's Ukay
 description: >-
   Fucking Strong Independent Human
 featuredImage:
