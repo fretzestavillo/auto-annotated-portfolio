@@ -14,12 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Jiween Bikini's Ukay
+      
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Hi, I’m Jiween. I’ve successfully carved out a career that I’m passionate about while maintaining a vibrant and fulfilling personal life. With a background in marketing, I thrive in a fast-paced, creative environment where I lead innovative campaigns and mentor young professionals. My dedication to my work is matched only by my commitment to my well-being and happiness.
     styles:
       self:
         height: auto
